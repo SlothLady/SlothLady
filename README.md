@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👩‍💻 Kate Davidson
 
-<!--
-**SlothLady/SlothLady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Full Stack Software Developer | 🎓 Computer Systems Engineer  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm Kate!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 My Portfolio
+🌐 Explore my work and projects at: [katedavidson.dev](https://katedavidson.dev)
+
+---
+
+## 🚀 Featured Projects
+- **MySQL Backup Tool**: [Project Link](https://github.com/SlothLady/MySQL-Backup-Tool)  
+  An elegant script with slack integration for keeping a optional local rolling backup and complete remote backup of a MySQL/MariaDB database or multiple databases to one or many different servers automatically.
+
+---
+
+## 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlothLady&show_icons=true)  
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlothLady)
+
+---
+
+## 📫 Let's Connect!
+- Instagram: [@kateddavidson](https://instagram.com/kateddavidson)
+
+---
+
+🌟 _ObservableCollection\<Cell\>_
