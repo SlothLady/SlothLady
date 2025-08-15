@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm Kate!
 - **MySQL Backup Tool**: [Project Link](https://github.com/SlothLady/MySQL-Backup-Tool)  
   An elegant script with slack integration for keeping a optional local rolling backup and complete remote backup of a MySQL/MariaDB database or multiple databases to one or many different servers automatically.
 
-- **Mview to OBJ Converter**: [Project Link](https://github.com/SlothLady/MySQL-Backup-Tool) | [Try It Live](https://slothlady.github.io/) 🔥  
+- **Mview to OBJ Converter**: [Project Link](https://github.com/SlothLady/MView-To-OBJ-Converter) | [Try It Live](https://slothlady.github.io/) 🔥  
   An easy to use and entirely Javascript implementation of a Marmoset Mview file mesh to OBJ file converter with object previewer and a modern tailwind UI.
 ---
 
