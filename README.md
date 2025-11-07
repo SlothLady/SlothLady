@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Kate!
 ---
 
 ## 📂 My Portfolio
-🌐 Explore my work and projects at: [katedavidson.dev](https://katedavidson.dev)
+🌐 See some of my work and projects at: [katedavidson.dev](https://katedavidson.dev)
 
 ---
 
